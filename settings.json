@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFKbot_KKPSSMP",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "KKPS_SMP.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "im a afk bot",
+        "Kkps_Smp is the best",
         "I like to play Minecraft!"
       ]
     },
